@@ -94,16 +94,20 @@ html {
   .col-11 {width: 91.66%;}
   .col-12 {width: 100%;}
 }
-//Changing Font Sizes - Requirment 5
-@media screen and (min-width: 600px) {
+
+
+
+/* Changing Font Sizes - Requirment 5 */
+@media screen and (min-width: 480px) {
   .req5 {
-    font-size: 80px;
+    font-size: 40px;
   }
 }
 
-@media screen and (max-width: 600px) {
+
+@media screen and (max-width: 480px) {
   .req5{
-    font-size: 30px;
+    font-size: 20px;
   }
-  
-// end of Font Size Media Queries
+}
+/* end of Font Size Media Queries */
