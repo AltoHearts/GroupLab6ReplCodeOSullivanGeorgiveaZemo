@@ -112,7 +112,8 @@ html {
 }
 /* end of Font Size Media Queries */
 
-img {
+/* Header Image */
+.v {
   max-width: 100%;
   height: auto;
 }
