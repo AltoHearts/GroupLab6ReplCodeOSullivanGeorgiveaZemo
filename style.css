@@ -125,7 +125,7 @@ height: auto;
 /* footer Aven */
 background-color: lightgreen;
  body {
-    background-color: lightblue;
+    background-color: lightgreen;
   }
   @media only screen and (orientation: landscape) {
   body {
@@ -139,6 +139,4 @@ background-color: lightgreen;
   background-size: 50%;
   border: 1px solid green;
 }
-body {
-  background-color: lightgreen;
-}
+
