@@ -122,3 +122,23 @@ video {
   max-width: 100%;
 height: auto;
 }
+/* footer Aven */
+background-color: lightgreen;
+ body {
+    background-color: lightblue;
+  }
+  @media only screen and (orientation: landscape) {
+  body {
+    background-color: lightblue;
+  }
+
+  .A {
+  width: 100%;
+  height: 400px;
+  background-image: url('images/chinaflowers.jpg');
+  background-size: 50%;
+  border: 1px solid green;
+}
+body {
+  background-color: lightgreen;
+}
