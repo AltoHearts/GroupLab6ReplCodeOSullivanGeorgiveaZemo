@@ -58,7 +58,7 @@ html {
   padding: 15px;
   width: 100%;
   height: 400px;
-  background-image: url('images/chinaflowers.jpg');
+  background-image: url('../images/chinaflowers.jpg');
   background-size: 100% 100%;
   border: 1px solid green;
 }
