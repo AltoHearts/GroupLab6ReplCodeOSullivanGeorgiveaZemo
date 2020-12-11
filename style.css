@@ -111,3 +111,13 @@ html {
   }
 }
 /* end of Font Size Media Queries */
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+video {
+  max-width: 100%;
+height: auto;
+}
